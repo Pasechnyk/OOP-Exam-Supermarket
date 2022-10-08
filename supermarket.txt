@@ -1,0 +1,58 @@
+5
+Spoon
+Kitchen Equipment
+0.4
+180
+Fork
+Kitchen Equipment
+0.4
+160
+Knives
+Kitchen Equipment
+0.4
+170
+Table Lamp
+Furniture
+4
+30
+Coffee Table
+Furniture
+37
+124
+6
+Chockolate Paradise
+8.24
+Chockolate Products
+Sweets
+17
+80
+Snickers
+5.04
+Chockolate Products
+Sweets
+8
+90
+Galychyna Milk
+5.04
+Milk Products
+Diary
+12
+68
+Galychyna Sour Cream
+5.04
+Milk Products
+Diary
+9
+84
+Mango
+5.04
+Fruits
+Exotic Fruits
+2
+161
+Coconut
+5.04
+Fruits
+Exotic Fruits
+3
+105
